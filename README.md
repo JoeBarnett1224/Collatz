@@ -6,7 +6,7 @@ ___
 ## About The Project
 The Collatz Conjecture is an unsolved problem in Number Theory. It is famous as the problem statement can be understood by anyone with only a background in elementary school arithmetic, yet remains unsolved to this day despite being introduced in 1937.
 
-To generate the hailstone sequence for any positive integer, multiply the number by 3 and add 1 if the integer is odd and divide by 2 if the integer is even. Repeat this process until 1 is obtained. For example, the hailstone sequence for 9 is {9, 28, 14, 7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1}. The Collatz Conjecture states that the hailstone sequence for every positive will eventually reach 1. The number of steps needed to reach 1 is called the total stopping time and the largest number occurring in the sequence is called the upper bound. The total stopping time for the sequence given earlier is 19, and the upper bound is 52.
+To generate the hailstone sequence for any positive integer, multiply the number by 3 and add 1 if the integer is odd and divide by 2 if the integer is even. Repeat this process until 1 is obtained. For example, the hailstone sequence for 9 is {9, 28, 14, 7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1}. The Collatz Conjecture states that the hailstone sequence for every positive integer will eventually reach 1. The number of steps needed to reach 1 is called the total stopping time and the largest number occurring in the sequence is called the upper bound. The total stopping time for the sequence given earlier is 19, and the upper bound is 52.
 
 This project allows the user to input up to twenty integers between 1 and 999,999,999,999,999,999 and returns the total stopping time and upper bound for each.
 
