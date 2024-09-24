@@ -28,7 +28,7 @@ Where the brackets should be replaced with the package name. For example, to ins
 
 ___
 ## Instructions
-To begin input up to twenty integers, separated by commas, between 1 and 999999999999999999. Click submit and the total stopping time and upper bound will be printed in the app. The program uses multiprocessing, so the runtime only depends on the maximum total stopping time, not on the number of integers entered.
+To begin input up to twenty integers, separated by commas, between 1 and 999999999999999999. Click submit and the total stopping times and upper bounds will be printed in the app. The program uses multiprocessing, so the runtime only depends on the maximum total stopping time, not on the number of integers entered.
 
 Note: To view this information in the app, click the "Help" button in the lower left.
 
