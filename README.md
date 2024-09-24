@@ -36,7 +36,7 @@ ___
 ## Acknowledgements
 I would like to thank the creators of the multiprocess package. It was valuable in reducing the programs' runtime.
 
-I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in Python. Including the one for this project.
+Furthermore, I thank the owner of the YouTube channel Clear Code. His tkinter tutorial helped me learn how to create user interfaces in Python. Including the one for this project.
 
 Note: To view this information in the app, click the "Acknowledgements" button in the lower right.
 
